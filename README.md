@@ -21,7 +21,7 @@ Point the domain to any static host and upload this folder as the site root.
 
 1. DNS for `veex.studio` → Cloudflare
 2. Pages → upload `website/` or connect this repo with root `website`
-3. Create mailbox / forward `support@veex.studio` (Cloudflare Email Routing or your registrar)
+3. Contact is Telegram only: [@veexstudio](https://t.me/veexstudio)
 
 ### Local preview
 
@@ -30,6 +30,6 @@ cd website && python3 -m http.server 8080
 # open http://localhost:8080
 ```
 
-## Email
+## Contact
 
-Create or forward: `support@veex.studio` (used in privacy + support pages).
+Telegram: [@veexstudio](https://t.me/veexstudio)
