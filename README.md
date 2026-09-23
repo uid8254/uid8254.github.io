@@ -21,7 +21,7 @@ Point the domain to any static host and upload this folder as the site root.
 
 1. DNS for `veex.studio` → Cloudflare
 2. Pages → upload `website/` or connect this repo with root `website`
-3. Contact is Telegram only: [@veexstudio](https://t.me/veexstudio)
+3. Contact is Telegram only: [@renatmussayev](https://t.me/renatmussayev)
 
 ### Local preview
 
@@ -32,4 +32,4 @@ cd website && python3 -m http.server 8080
 
 ## Contact
 
-Telegram: [@veexstudio](https://t.me/veexstudio)
+Telegram: [@renatmussayev](https://t.me/renatmussayev)
