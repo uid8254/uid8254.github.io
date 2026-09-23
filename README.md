@@ -1,27 +1,21 @@
-# veex.studio
+# Silicon Yard pages
 
-Minimal information pages for **Silicon Yard**.
+Minimal information pages for **Silicon Yard** by indie developer **Renat Musaev**.
 
-## URLs (for App Store / Play)
+## Live URLs (for App Store / Play)
 
 | | |
 |---|---|
-| Privacy | https://veex.studio/siliconyard/policy |
-| Terms | https://veex.studio/siliconyard/terms |
-| Contacts | https://veex.studio/siliconyard/contacts |
-| Support | https://veex.studio/siliconyard/support |
+| Privacy | https://uid8254.github.io/siliconyard/policy/ |
+| Terms | https://uid8254.github.io/siliconyard/terms/ |
+| Contacts | https://uid8254.github.io/siliconyard/contacts/ |
+| Support | https://uid8254.github.io/siliconyard/support/ |
 
-Package id: `studio.veex.siliconyard` (reverse of veex.studio).
+Package id: `studio.veex.siliconyard`
 
 ## Deploy
 
-Point the domain to any static host and upload this folder as the site root.
-
-### Cloudflare Pages (simple)
-
-1. DNS for `veex.studio` → Cloudflare
-2. Pages → upload `website/` or connect this repo with root `website`
-3. Contact is Telegram only: [@renatmussayev](https://t.me/renatmussayev)
+Hosted on GitHub Pages from `uid8254/uid8254.github.io` (contents of this `website/` folder).
 
 ### Local preview
 
